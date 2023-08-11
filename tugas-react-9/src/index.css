@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght100;200;300;400;600;700;800&display=swap"); */
+
+/* :root {
+  --primary-darkc: #5651e5;
+  --primary-light: #709dff;
+} */
+
+/* html {
+  @apply scroll-smooth;
+}
+body {
+  @apply font-[Poppins];
+} */
+
+button {
+  @apply border border-black rounded-xl px-5 py-1;
+}
